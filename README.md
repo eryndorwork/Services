@@ -11,7 +11,8 @@ Here are all currently available services offered:
 - Fully automatic ItemShop with any payment processor integration
 - Protection against Proxies and VPNs on Website and Game Server
 - Layer 7 Filter for Auth and Core Flood Protection
-- Custom clientside AntiCheat with many protections (memory, integrity, dll etc) - We can block 99% of currently available cheats (lalaker, com2, m24 etc)
+- Custom Clientside AntiCheat with many protections (memory, integrity, dll etc) - We can block 99% of currently available cheats (lalaker, com2, m24 etc)
+- Custom Serverside AntiCheat against 99% of all common and private game cheats and exploits
 - 24/7 automatic monitoring service with instant notification (PING and TCP monitoring for all cores, ch and host)
 
 ## What it means to buy Eryndor Services?
