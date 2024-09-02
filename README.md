@@ -7,6 +7,7 @@ Here are all currently available services offered:
 
 
 - Custom CMS Website with all fixes (for reference find all improvements [here](https://eryndorwork.github.io/home/))
+- DDoS Protected Reverse Proxy for your custom websites (Cloudflare compatible)
 - Fully automatic Backups with double backup
 - Fully automatic ItemShop with any payment processor integration
 - Protection against Proxies and VPNs on Website and Game Server
