@@ -18,7 +18,7 @@ Here are all currently available services offered:
 
 ## What it means to buy Eryndor Services?
 
-All our infrastructure is powered by Docker in High Availability, protected by AppArmor and a third party Firewall. When you buy any of our services, you are not just getting a software, you are buying our experience and our support and maintenance. For this reason all our services are being offered as SaaS with a little monthly fee.
+All our infrastructure is powered by Docker, protected by AppArmor and a third party Firewall. All the Cloud Servers are in High Availability with a 100% Service Uptime SLA. When you buy any of our services, you are not just getting a software, you are buying our experience and our support and maintenance. For this reason all our services are being offered as SaaS with a little monthly fee.
 
 
 ## Disclaimer
