@@ -14,11 +14,13 @@ Here are all currently available services offered for Metin2:
 - Layer 7 Filter for Auth and Core Flood Protection
 - Custom Clientside AntiCheat with many protections (memory, integrity, dll etc) - We can block 99% of currently available cheats (lalaker, com2, m2bob, m24 etc)
 - Custom Serverside AntiCheat against 99% of all common and private game cheats and exploits
+- Custom Serverside Cheating monitoring with instant notification
+- Custom Serverside Blackmarket monitoring with instant notification, powered by AI and Machine Learning to automatically detect suspicious behaviours in your server
 - 24/7 automatic monitoring service with instant notification (PING and TCP monitoring for all cores, ch and host)
 
 ## What it means to buy Eryndor Services?
 
-All our infrastructure is powered by Docker, protected by AppArmor and a third party Firewall. All the Cloud Servers are in High Availability with a 100% Service Uptime SLA. When you buy any of our services, you are not just getting a software, you are buying our experience and our support and maintenance. For this reason all our services are being offered as SaaS with a little monthly fee.
+All our infrastructure is powered by Docker, protected by AppArmor, ModSecurity, OWASP CRS, CrowdSec and a custom WAF. All the Cloud Servers are in High Availability with a 100% Service Uptime SLA. When you buy any of our services, you are not just getting a software, you are buying our experience and our support and maintenance. For this reason all our services are being offered as SaaS with a little monthly fee.
 
 
 ## Disclaimer
